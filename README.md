@@ -2,8 +2,7 @@
 
 ## Description
 
-This code was written as my own take on various memory information examples available on arduino.cc
-Such as:
+This code was written as my own take on various memory information examples available on arduino.cc, such as:
 http://playground.arduino.cc/Code/AvailableMemory
 
 
